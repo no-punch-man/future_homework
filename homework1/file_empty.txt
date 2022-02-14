@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 i love nachos
+=======
+i dont like merge_conflicts
+>>>>>>> branch_new
+i dont like merge_conflicts
